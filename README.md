@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # KELVIN ADEU
 #### This is a game web page for playing games.
+
 ## Description
 ### This app enables user to create quotes and also asign there names on it  also the date for it
 
