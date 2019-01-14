@@ -3,17 +3,17 @@
 </p>
 
 <div class="container-fluid">
-  <div class="row">
+  <div id="jumbotron">
     <form (ngSubmit)='submitQuotes()' #quotesForm='ngForm'>
       <div class="form-group">
-             <label for="name">Name</label>
-             <input type="text"  class="form-control" id="name" [(ngModel)]="newQuotes.name" name="name" #name="ngModel" required>
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" [(ngModel)]="newQuotes.name" name="name" #name="ngModel" required>
 
-             <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
+        <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
 
 
-             </div>
-         </div>
+        </div>
+      </div>
 
       <!-- Quotes Input -->
       <div class="form-group">

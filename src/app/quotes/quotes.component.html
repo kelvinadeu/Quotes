@@ -1,18 +1,16 @@
 <h1>Quotes</h1>
 
 <div class="container">
-    <div class="row">
-        <app-quotes-form (addQuotes)="addNewQuotes($event)"></app-quotes-form>
-    </div>
+  <app-quotes-form (addQuotes)="addNewQuotes($event)"></app-quotes-form>
 
+
+  <ul>
+    <div *ngFor='let quote of quotes;let i=index'>
+      <div class="details">
+
+      </div>
+      <app-quotes-details [quotes]='quote' (isComplete)='quotesDelete($event,i)'></app-quotes-details>
+
+    </div>
+  </ul>
 </div>
-
-<ul>
-  <div *ngFor='let quote of quotes;let i=index'>
-    <div class="details">
-
-    </div>
-    <app-quotes-details [quotes]='quote'(isComplete)='quotesDelete($event,i)'></app-quotes-details>
-
-  </div>
-</ul>
