@@ -4,23 +4,53 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# KELVIN ADEU
+#### This is a game web page for playing games.
+## Description
+### This pig dice game is a 2 player game.The players take turns while playing the game.When player rolls the dice scores appear on the and when the player stops its get calculated in the total score area
 
-## Code scaffolding
+## Technologies used
+#### html
+#### javascript
+#### bootstrap
+#### styles.css
+#### jquery
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## BDD
+player rolls die to get random number,if get 1 its failed goes to next player
+when player rolls to any  other number add to total i.e 3
+player can end game by clicking hold button
+first player to reach 100 wins
 
-## Build
+## KNOWN BUGS
+there is a lot to be improved in this project mostly the js part which ill try work on  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## communication
+you can make you contribution through my email
+kelvinadeu25@gmail.com
 
-## Running unit tests
+## Licensed
+MIT License
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Copyright (c) [2018] [kelvin adeu]
 
-## Running end-to-end tests
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sub-license, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT ABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Further help
 
