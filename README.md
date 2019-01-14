@@ -22,14 +22,14 @@ when player rolls to any  other number add to total i.e 3
 player can end game by clicking hold button
 first player to reach 100 wins
 
-## KNOWN BUGS
+#### KNOWN BUGS
 there is a lot to be improved in this project mostly the js part which ill try work on  
 
-## communication
+### communication
 you can make you contribution through my email
 kelvinadeu25@gmail.com
 
-## Further help
+### Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
@@ -37,7 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Licensed
 MIT License
 
-Copyright (c) [2018] [kelvin adeu]
+Copyright (c) [2018] [kelvin Adeu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
