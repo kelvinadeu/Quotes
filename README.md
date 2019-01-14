@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-# KELVIN ADEU
+### KELVIN ADEU
 #### This is a quotes web app for creating apps.
 
 ## Description
