@@ -23,7 +23,7 @@ player can end game by clicking hold button
 first player to reach 100 wins
 
 #### KNOWN BUGS
-there is a lot to be improved in this project mostly the js part which ill try work on  
+there is no bug in this app and if you get any please communicate  
 
 ### communication
 you can make you contribution through my email
