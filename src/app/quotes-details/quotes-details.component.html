@@ -1,4 +1,10 @@
-<p>
-  quotes-details works!
-</p>
-<app-quotes-form></app-quotes-form>
+
+<p>Quotes:"{{quotes.quotes}}"</p>
+<p>Name:"{{quotes.name}}"</p>
+
+<div class="btns">
+  <button id="delete" class="btn btn-danger" (click)='quotesDelete(true)'>Delete</button>
+  <button id="Likes" class="btn btn-success" (click)='likes()'>Like<span>{{like}}</span></button>
+  <button id="unLikes" class="btn btn-danger"(click)='unlikes()'>unLikes<span>{{unlike}}</span></button>
+
+</div>
