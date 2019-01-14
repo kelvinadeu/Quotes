@@ -10,11 +10,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### This pig dice game is a 2 player game.The players take turns while playing the game.When player rolls the dice scores appear on the and when the player stops its get calculated in the total score area
 
 ## Technologies used
-#### html
-#### javascript
+#### Angular.js
+#### node.js
 #### bootstrap
 #### styles.css
-#### jquery
 
 ## BDD
 You enter your name then the quote and then you click the add quote button it will Submit,
