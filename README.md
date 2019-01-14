@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # KELVIN ADEU
 #### This is a game web page for playing games.
 ## Description
-### This pig dice game is a 2 player game.The players take turns while playing the game.When player rolls the dice scores appear on the and when the player stops its get calculated in the total score area
+### This app enables user to create quotes and also asign there names on it  also the date for it
 
 ## Technologies used
 #### Angular.js
