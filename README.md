@@ -17,10 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 #### jquery
 
 ## BDD
-player rolls die to get random number,if get 1 its failed goes to next player
-when player rolls to any  other number add to total i.e 3
-player can end game by clicking hold button
-first player to reach 100 wins
+You enter your name then the quote and then you click the add quote button it will Submit,
 
 #### KNOWN BUGS
 there is no bug in this app and if you get any please communicate  
