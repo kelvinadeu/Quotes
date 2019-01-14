@@ -1,7 +1,7 @@
 
 <p>Quotes:"{{quotes.quotes}}"</p>
 <p>Name:"{{quotes.name}}"</p>
-
+<p>Published on {{quotes.completeDate | date }} {{quotes.completeDate | dateCount}} days ago</p>
 <div class="btns">
   <button id="delete" class="btn btn-danger" (click)='quotesDelete(true)'>Delete</button>
   <button id="Likes" class="btn btn-success" (click)='likes()'>Like<span>{{like}}</span></button>
