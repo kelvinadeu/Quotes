@@ -23,10 +23,8 @@ there is no bug in this app and if you get any please communicate
 you can make you contribution through my email
 kelvinadeu25@gmail.com
 
-### Further help
-
-To know more on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
+### link to my app
+    https://kelvinadeu.github.io/Quotes/
 
 ## Licensed
 MIT License

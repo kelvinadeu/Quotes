@@ -9,7 +9,7 @@ import {Quotes} from '../quotes'
 export class QuotesComponent implements OnInit {
 
     quotes = [
-      // new Quotes(1,'live your life a quarter mile at a time','created by Denzel'),
+      //new Quotes(1,'live your life a quarter mile at a time','created by Denzel'),
       // new Quotes(2,'every mad person thinks','created by Adeu'),
       // new Quotes(3,'not all born in the jungle dies in the jungle','created by Watii'),
     ]
