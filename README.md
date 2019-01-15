@@ -24,7 +24,8 @@ you can make you contribution through my email
 kelvinadeu25@gmail.com
 
 ### link to my app
-    https://kelvinadeu.github.io/Quotes/
+    this the link to my github which
+     gives easy access to my app https://kelvinadeu.github.io/Quotes/
 
 ## Licensed
 MIT License
