@@ -7,11 +7,12 @@
 ## Description
  This app enables user to create quotes and also asign there names on it  also the date for the time it was created
 
-## Technologies used
+# Technologies used
 #### Angular.js
 #### node.js
 #### bootstrap
 #### styles.css
+#### npm
 
 ## BDD
 You enter your name then the quote and then you click the add quote button it will Submit,
