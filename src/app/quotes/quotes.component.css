@@ -1,14 +1,20 @@
 h1 {
-  color:#4f8fbf;
+  color: white;
   text-align: center;
 }
 .container{
   background-color: rgba(0, 0, 0, .1);
   text-align: center;
+  width: 500px;
 }
 body{
+  color: white;
   height: 100vh;
-  background-color: aqua;
-
-  /* background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwio44-Ip-3fAhWxz4UKHTI0CRAQjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Ftoon_quotes&psig=AOvVaw08VnvO9SC6dM8DAEmMRaMf&ust=1547556408801568); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://www.postallove.com/var/plain_site/storage/images/pocztowki/pejzaze/nocny-pejzaz-z-ksiezycem/nocny-pejzaz-z-ksiezycem/436254-4-pol-PL/Nocny-pejzaz-z-ksiezycem.jpg");
+  
+}
+button{
+  background-color: blue;
 }
