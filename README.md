@@ -5,7 +5,7 @@
 #### This is a quotes web app for creating apps.
 
 ## Description
-### This app enables user to create quotes and also asign there names on it  also the date for it
+ This app enables user to create quotes and also asign there names on it  also the date for the time it was created
 
 ## Technologies used
 #### Angular.js
